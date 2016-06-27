@@ -1,0 +1,90 @@
+-- Options Voices
+ 
+wave_style1 = "Ondular"
+wave_style2 = "Pequena Onda"
+wave_style3 = "Grande Onda"
+listopt = "Modo de Listagem"
+listmode1 = "Lista de Texto"
+listmode2 = "Menu Anel"
+bgmprev = "Pré-visualizar BGM"
+autozipopt = "Extrair temas ZIP automaticamente"
+wavopt = "Estilo das ondas do ecrã superior"
+dumpopt = "Descarregar tema atual"
+exitopt = "Sair do CHMM2"
+ 
+-- Generics
+ 
+enabled = "Ligado"
+disabled = "Desligado"
+warn = "Aviso"
+ok = "OK"
+yes = "Sim"
+no = "Não"
+hbdesc = "Gestor de Temas para a Nintendo 3DS"
+press = "Toque"
+ 
+-- System Checks
+ 
+linkansw = "As suas NANDs (SysNAND e EmuNAND) estão desvinculadas?"
+warnands = "Apenas desta vez, quando instalar um ou mais temas, terá de reiniciar o sistema."
+nodsp = "Parece que o CHMM2 nao consegue encontrar o firmware DSP (dspfirm.cdc). O sistema de som de pré-visualização sera desativado. Leia a FAQ do tópico oficial para saber como obter este ficheiro."
+folder = "Tem de colocar os temas em"
+ 
+-- Themes Voices
+ 
+unkn = "Desconhecido"
+nodesc = "Sem descrição."
+by = "Por"
+norec = "Tema não reconhecido."
+ 
+-- System Voices
+ 
+detect = "Temas detetados"
+haxmode = "Modo MenuHax"
+foundt = "Temas Encontrados"
+site = "Site do Tema"
+shuffle = "Baralhar Temas"
+toexit = "para sair do CHMM2."
+toscan = "para procurar temas no cartão SD."
+toprev = "para abrir pré-visualização do tema"
+toerase = "para apagar o tema atual."
+ 
+-- Alerts
+ 
+scanning = "A procurar temas no cartão SD..."
+receiving = "A receber um tema pela rede..."
+openbgm = "A abrir pré-visualização da BGM..."
+installing = "A instalar tema..."
+installing2 = "A instalar conjunto de temas para baralhar..."
+dumping = "A extrair tema da memória..."
+extractingzip = "A extrair tema..."
+downloadingth = "A descarregar tema da rede..."
+ 
+-- Theme Downloader
+ 
+keyword = "Palavra-Chave:"
+downth = "Transferir Tema"
+showdp = "Mostrar Pré-Visualização"
+search = "Começar Busca"
+ 
+-- Help Panel
+ 
+keysel = "Escolha de Teclado"
+keymode = "Mudar Modo de Teclado"
+navmen = "Navegar no menu principal"
+navthemes = "Navegar nos temas"
+execv = "Executar voz do menu"
+keymov = "Movimento do Teclado"
+ret1 = "Voltar ao modo base"
+addth = "Adicionar tema a conjunto"
+eraseth ="Apagar índice atual"
+installth = "Instalar conjunto de temas"
+changeidx = "Mudar índice atual"
+unused = "Não usado"
+changeth = "Mudar tema do CHMM2"
+openopt = "Abrir menu de opções"
+installth2 = "Instalar tema"
+opensh = "Abrir Sistema de Baralho"
+showprev = "Mostrar pré-visualização do tema"
+extzip = "Extrair um tema ZIP"
+opendown = "Abrir Descarregador de Temas"

@@ -1,0 +1,90 @@
+-- Options Voices
+
+wave_style1 = "Ondular"
+wave_style2 = "Lijn Golf"
+wave_style3 = "Volle Golf"
+listopt = "Lijst modus"
+listmode1 = "Lay-out"
+listmode2 = "Ring menu"
+bgmprev = "BGM Preview"
+autozipopt = "Automatisch openen van Zips" 
+wavopt = "Bovenscherm golf stijl"
+dumpopt = "Dump huidig thema"
+exitopt = "Verlaat CHMM2"
+
+-- Generics 
+
+enabled = "Aan"
+disabled = "Uit"
+warn = "Waarschuwing"
+ok = "OK"
+yes = "Ja"
+no = "Nee"
+hbdesc = "Thema Manager voor Nintendo 3DS"
+press = " Duw"
+
+-- System Checks
+
+linkansw = "Zijn je nands (SysNand en EmuNand ontlinkt?"
+warnands = "Voor deze ene keer zal je een hard reset moeten doen om de veranderingen effect te doen nemen."
+nodsp = "Het lijkt erop dat CHMM2 DSP firmware (dspfirm.cdc) niet kan vinden. Muziek previews worden gedeactiveerd. Lees de FAQ in het officieele CHMM2 Topic om te weten hoe je aan dit bestand geraakt."
+folder = "Je moet themas plaatsen in"
+
+-- Themes Voices
+
+unkn = "Onbekend"
+nodesc = "Geen beschrijving."
+by = "Door"
+norec = "Geen thema herkend ."
+
+-- System Voices
+
+detect = "Gedetecteerde themas"
+haxmode = "MenuHax Modus"
+foundt = "Gevonden Themas"
+site = "Thema Site"
+shuffle = "Thema Shuffle"
+toexit = "Voor CHMM2 te verlaten."
+toscan = "Voor SD te scannen voor themas."
+toprev = "Voor thema preview te openen."
+toerase = "Voor huidig thema te verwijderen."
+
+-- Alerts
+
+scanning = "Sd kaart wordt gescand op themas..."
+receiving = "bezig met ontvangen van thema via netwerk..."
+openbgm = "Bezig met openen van BGM preview..."
+installing = "Thema wordt geinstalleerd..."
+installing2 = ""Shuffle themaset wordt geinstalleerd..."
+dumping = "Dumpen thema..."
+extractingzip = "Extracting thema..."
+downloadingth = "Downloading thema..."
+
+-- Theme Downloader
+
+keyword = "Sleutelwoord:"
+downth = "Download Thema"
+showdp = "Laat Preview Zien"
+search = "Start Zoekopdract"
+
+-- Help Panel
+
+keysel = "Toetsenbord selectie"
+keymode = "Verander toetsenbord modus"
+navmen = "Navigatie in hoofd menu
+navthemes = "Navigatie in themas
+execv = "Open stem menu"
+keymov = "Toetsenbord beweging"
+ret1 = "Terug naar basis modus"
+addth = "Voeg thema toe aan themaset"
+eraseth ="Verwijder huidige index"
+installth = "Installeer themaset"
+changeidx = "verander huidige index"
+unused = "Niet gebruikt "
+changeth = "verander CHMM2 thema"
+openopt = "Open Opties Menu"
+installth2 = "Installeer thema"
+opensh = "Open Shuffle Systeem"
+showprev = "Open thema preview"
+extzip = "Pak een ZIP thema uit"
+opendown = "Open Thema Downloader"

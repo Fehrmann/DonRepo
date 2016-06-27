@@ -1,0 +1,90 @@
+-- Options Voices
+
+wave_style1 = "Ondular"
+wave_style2 = "Tiny Wave"
+wave_style3 = "Fullscreen Wave"
+listopt = "Listing mode"
+listmode1 = "Textlist"
+listmode2 = "Ringmenu"
+bgmprev = "BGM Preview"
+autozipopt = "Auto Extract ZIP themes" 
+wavopt = "Topscreen Wave Style"
+dumpopt = "Dump current theme"
+exitopt = "Exit CHMM2"
+
+-- Generics 
+
+enabled = "On"
+disabled = "Off"
+warn = "Warning"
+ok = "OK"
+yes = "Yes"
+no = "No"
+hbdesc = "Theme Manager for Nintendo 3DS"
+press = "Press"
+
+-- System Checks
+
+linkansw = "Are your nands (sysNand and emuNand) unlinked?"
+warnands = "Only for this time, when you'll go to install one or more themes, you'll need hard-reset to effectively apply changes."
+nodsp = "Looks like CHMM2 cannot find a DSP firmware (dspfirm.cdc). Sound system used for previews will be disabled. Read the FAQ in the official thread of CHMM2 to know how to get this file."
+folder = "You must put themes in"
+
+-- Themes Voices
+
+unkn = "Unknown"
+nodesc = "No description."
+by = "By"
+norec = "No theme recognized."
+
+-- System Voices
+
+detect = "Detected themes"
+haxmode = "MenuHax Mode"
+foundt = "Found Themes"
+site = "Theme Site"
+shuffle = "Theme Shuffle"
+toexit = "to exit CHMM2."
+toscan = "to scan SD for themes."
+toprev = "to open theme preview."
+toerase = "to erase current theme."
+
+-- Alerts
+
+scanning = "Scanning SD for themes..."
+receiving = "Receiving a theme from network..."
+openbgm = "Opening BGM preview..."
+installing = "Installing theme..."
+installing2 = "installing shuffle themeset..."
+dumping = "Dumping theme..."
+extractingzip = "Extracting theme..."
+downloadingth = "Downloading theme..."
+
+-- Theme Downloader
+
+keyword = "Keyword:"
+downth = "Download Theme"
+showdp = "Show Preview"
+search = "Start Search"
+
+-- Help Panel
+
+keysel = "Keyboard selection"
+keymode = "Change keyboard mode"
+navmen = "Navigate in main menu"
+navthemes = "Navigate in themes"
+execv = "Execute menu voice"
+keymov = "Keyboard movement"
+ret1 = "Return to base mode"
+addth = "Add theme to themeset"
+eraseth ="Erase current index"
+installth = "Install themeset"
+changeidx = "Change current index"
+unused = "Not used"
+changeth = "Change CHMM2 theme"
+openopt = "Open Options Menu"
+installth2 = "Install theme"
+opensh = "Open Shuffle System"
+showprev = "Show theme preview"
+extzip = "Extract a ZIP theme"
+opendown = "Open Theme Downloader"

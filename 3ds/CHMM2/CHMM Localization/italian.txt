@@ -1,0 +1,90 @@
+-- Options Voices
+
+wave_style1 = "Ondulare"
+wave_style2 = "Onda Sottile"
+wave_style3 = "Onda Completa"
+listopt = "Modalità di visuallizzazione"
+listmode1 = "Lista testuale"
+listmode2 = "Lista ad anelli"
+bgmprev = "Anteprima della musica di sottofondo"
+autozipopt = "Estrazione automatica dei temi" 
+wavopt = "Modalita' onda superiore"
+dumpopt = "Dumpa tema in uso"
+exitopt = "Esci da CHMM2"
+
+-- Generics 
+
+enabled = "Abilitata"
+disabled = "Disabilitata"
+warn = "Attenzione"
+ok = "OK"
+yes = "Si'"
+no = "No"
+hbdesc = "Manager di temi per Nintendo 3DS"
+press = "Premi"
+
+-- System Checks
+
+linkansw = "Le nand (sysNand ed emuNand) sono scollegate?"
+warnands = "Solamente per questa volta, se effettuerai l'installazione di uno o piu' temi, dovrai effettuare un riavvio della console per rendere effettive le modifiche."
+nodsp = "Sembra che CHMM2 non riesca ad accedere al firmware DSP (dspfirm.cdc). L'audio verra' disabilitato per le anteprime. Leggi le FAQ nel topic ufficiale di CHMM2 per scoprire come ottenere questo file."
+folder = "I temi vanno posizionati in"
+
+-- Themes Voices
+
+unkn = "Sconosciuto"
+nodesc = "Nessuna descrizione."
+by = "Di"
+norec = "Nessun tema rilevato."
+
+-- System Voices
+
+detect = "Temi rilevati"
+haxmode = "Modalita' MenuHax"
+foundt = "Temi trovati"
+site = "Sito"
+shuffle = "Modalità Multipla"
+toexit = "per uscire da CHMM2."
+toscan = "per cercare temi sulla SD."
+toprev = "per aprire l'anteprima del tema."
+toerase = "per rimuovere il tema selezionato."
+
+-- Alerts
+
+scanning = "Analisi dell'SD alla ricerca di temi in corso..."
+receiving = "Ricezione di un tema in corso..."
+openbgm = "Apertura dell'anteprima sonora in corso..."
+installing = "Installazione del tema in corso..."
+installing2 = "Installazione dei temi in corso..."
+dumping = "Dump del tema in corso..."
+extractingzip = "Estrazione del tema in corso..."
+downloadingth = "Download del tema in corso..."
+
+-- Theme Downloader
+
+keyword = "Parola chiave:"
+downth = "Scarica Tema"
+showdp = "Mostra Anteprima"
+search = "Avvia la Ricerca"
+
+-- Help Panel
+
+keysel = "Selezione della tastiera"
+keymode = "Cambia modalita' tastiera"
+navmen = "Naviga nel menu principale"
+navthemes = "Naviga tra i temi"
+execv = "Esegui azione selezionata"
+keymov = "Movimento della tastiera"
+ret1 = "Ritorna alla modalita' base"
+addth = "Aggiungi tema al set"
+eraseth ="Cancella selezione"
+installth = "Installa set"
+changeidx = "Cambia selezione"
+unused = "Inutilizzato"
+changeth = "Cambia tema di CHMM2"
+openopt = "Apri il menu Opzioni"
+installth2 = "Installa tema"
+opensh = "Apri modalita' multipla"
+showprev = "Mostra anteprima tema"
+extzip = "Estrai tema compresso"
+opendown = "Apri Downloader"

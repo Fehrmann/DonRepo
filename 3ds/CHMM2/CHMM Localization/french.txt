@@ -1,0 +1,90 @@
+-- Options Voices
+
+wave_style1 = "Vague ondulée"
+wave_style2 = "Petite vague"
+wave_style3 = "Vague complète"
+listopt = "Mode d'affichage"
+listmode1 = "Liste textuelle"
+listmode2 = "Menu en anneau"
+bgmprev = "Aperçu de la musique"
+autozipopt = "Extraire automatiquement les thèmes en ZIP" 
+wavopt = "Style de la vague de l'écran supérieur"
+dumpopt = "Dumper le thème actuel"
+exitopt = "Quitter CHMM2"
+
+-- Generics 
+
+enabled = "Activé"
+disabled = "Désactivé"
+warn = "Attention"
+ok = "OK"
+yes = "Oui"
+no = "Non"
+hbdesc = "Gestionnaire de thèmes pour Nintendo 3DS"
+press = ""
+
+-- System Checks
+
+linkansw = "Est-ce que vos nands (sysNand et emuNand) sont délinkés ?"
+warnands = "Pour cette fois uniquement, quand vous installerez un ou plusieurs thèmes, vous devrez redémarrer la console pour appliquer les changements."
+nodsp = "On dirait que CHMM2 ne trouve pas le DSP firmware (dspfirm.cdc). L'aperçu des musiques des thèmes sera désactivé. Lisez la FAQ du topic officiel de CHMM2 pour savoir comment se procurer ce fichier."
+folder = "Vous devez mettre des thèmes dedans"
+
+-- Themes Voices
+
+unkn = "Inconnu"
+nodesc = "Pas de description."
+by = "Par"
+norec = "Aucun thème reconnu."
+
+-- System Voices
+
+detect = "Thèmes détecté"
+haxmode = "Mode MenuHax"
+foundt = "Thèmes trouvés"
+site = "Site de Thèmes"
+shuffle = "Thèmes Aléatoires"
+toexit = ": quitter CHMM2."
+toscan = ": chercher des thèmes sur la SD."
+toprev = ": ouvrir l'aperçu du thème."
+toerase = ": effacer le thème actuel."
+
+-- Alerts
+
+scanning = "Recherche de thèmes sur la carte SD..."
+receiving = "Réception d'un thème..."
+openbgm = "Ouverture de l'aperçu de la musique..."
+installing = "Installation du thème..."
+installing2 = "Installation des thèmes aléatoires..."
+dumping = "Dump du thème en cours..."
+extractingzip = "Extraction du thème en cours..."
+downloadingth = "Téléchargement du thème en cours..."
+
+-- Theme Downloader
+
+keyword = "mot-clé :"
+downth = "Télécharger le Thème"
+showdp = "Voir un Aperçu"
+search = "Démarrer une Recherche"
+
+-- Help Panel
+
+keysel = "Selection de la lettre"
+keymode = "Changer de clavier"
+navmen = "Naviguer dans le menu"
+navthemes = "Se deplacer"
+execv = "Valider la selection"
+keymov = "Mouvement du Clavier"
+ret1 = "Retour"
+addth = "Ajouter un thème aux Themes Aleatoires"
+eraseth ="Retirer le thème"
+installth = "Installer les thèmes Aléatoires"
+changeidx = "Se deplacer"
+unused = "Non utilise"
+changeth = "Changer le theme de CHMM2"
+openopt = "Ouvrir le Menu d'Options"
+installth2 = "Installer un theme"
+opensh = "Ouvrir les Themes Aléatoires"
+showprev = "Voir un apercu du theme"
+extzip = "Extraire un thème en ZIP"
+opendown = "Telecharger via 3dsthem.es"
