@@ -1,0 +1,20 @@
+{
+  "repo": {
+  "name": "Don´s Repo",
+  "author": "Don",
+  "website": null
+  },
+  "packages": [
+  {
+  "name": "3DS Craft",
+  "author": "smea",
+  "short_description": "WoW! Minecraft for 3DS",
+  "category": "games",
+  "website:": null,
+  "type": "3ds",
+  "version": "1.0.1",
+  "dl_path": "3ds/3dscraft/",
+  "info_path": "3ds/3dscraft/3dscraft.smdh"
+  }
+  ]
+}
