@@ -6,15 +6,26 @@
   },
   "packages": [
   {
-  "name": "3DS Craft",
-  "author": "smea",
-  "short_description": "WoW! Minecraft for 3DS",
+  "name": "BrewMan",
+  "author": "TheCruel",
+  "short_description": "Homebrew Repo",
   "category": "games",
   "website:": null,
   "type": "3ds",
   "version": "1.0.1",
-  "dl_path": "3ds/3dscraft/",
-  "info_path": "3ds/3dscraft/3dscraft.smdh"
+  "dl_path": "3ds/brewman/",
+  "info_path": "3ds/brewman/brewman.smdh"
+  }
+  {
+  "name": "CHMM2",
+  "author": "Rinnegatamante",
+  "short_description": "Theme Manager",
+  "category": "games",
+  "website:": null,
+  "type": "3ds",
+  "version": "1.0.1",
+  "dl_path": "3ds/chmm2/",
+  "info_path": "3ds/chmm2/chmm2.smdh"
   }
   ]
 }
